@@ -2,6 +2,11 @@
 Carmelo Califano per ELIS - Smart Alliance
 
 ## Indice 1/2
+<table border="0">
+  <tr>
+    <td width="30%">
+     <ul>
+      <li>
 - Parte I - Tecnica
   - Ottica geometrica
   - Cenni storici
@@ -11,6 +16,11 @@ Carmelo Califano per ELIS - Smart Alliance
   - Diaframma
   - Sensibilità
   - Esposizione
+</li>
+     </ul>
+    </td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/en/3/38/Feininger%2C_The_Photojournalist.jpg"></td>
+  </tr>
 
 ## Indice 2/2
 - Parte II – Il Linguaggio della Fotografia
