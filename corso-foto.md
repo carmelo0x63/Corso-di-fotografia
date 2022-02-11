@@ -21,7 +21,7 @@ Carmelo Califano per ELIS - Smart Alliance
 ## Parte I - Tecnica
 
 ### Ottica geometrica
-- Studio della propagazione della luce assimilata a raggi rettilinei (**propagazione**)
+- **Propagazione**: la luce si propaga sostanzialmente in linea retta (raggi di luce)
 - **Riflessione**: il raggio di luce incidente "rimbalza" con lo stesso angolo con cui incide sulla superficie
 - **Rifrazione**: il raggio di luce che attraversa una discontinuità viene deviato in maniera prevedibile (**indice di rifrazione**)
 
