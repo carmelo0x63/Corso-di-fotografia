@@ -20,6 +20,8 @@ Carmelo Califano per ELIS - Smart Alliance
   - Glossario
   - Biografie fotografi/e "famosi/e"
 
+![Mario Giacomelli](assets/giacomelli.jpg)
+
 ## Parte I - Tecnica
 
 ### Ottica geometrica
