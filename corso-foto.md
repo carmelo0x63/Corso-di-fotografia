@@ -11,6 +11,7 @@ Carmelo Califano per ELIS - Smart Alliance
   - Diaframma
   - Sensibilità
   - Esposizione
+</br>
 ![Andreas Feininger](https://upload.wikimedia.org/wikipedia/en/3/38/Feininger%2C_The_Photojournalist.jpg)
 
 ## Indice 2/2
